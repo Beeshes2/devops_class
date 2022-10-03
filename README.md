@@ -1,1 +1,2 @@
-# devops_class
+# devops_class day
+learning github
