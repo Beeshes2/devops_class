@@ -1,2 +1,2 @@
 # devops_class day
-learning github
+learning github from git
